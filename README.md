@@ -15,11 +15,11 @@ A **responsive image gallery** built with HTML, CSS, and JavaScript. It features
 
 ## Screenshots
 Here’s a preview of the gallery in action:
-
+## In mobile view
 ![Gallery Screenshot](screenshots/ss%20(1).png)
-In desktop view
+## In desktop view
 ![Gallery Screenshot](screenshots/ss%20(2).png)
-In mobile view
+
 
 ## How to Use
 1. Clone or download this repository.
