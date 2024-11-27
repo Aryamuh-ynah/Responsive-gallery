@@ -26,6 +26,4 @@ Here’s a preview of the gallery in action:
 2. Open `index.html` in your browser.
 3. Interact with the gallery by clicking images or buttons.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
 
